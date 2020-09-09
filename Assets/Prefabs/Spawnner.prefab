@@ -49,4 +49,5 @@ MonoBehaviour:
     minProbabilityRange: 1
     maxProbabilityRange: 100
   spawnDelay: 3
-  DelayUntilRateDecrease: 30
+  DelayUntilRateDecrease: 20
+  timeBeforeSpawnStart: 0
